@@ -76,3 +76,12 @@ table, table th, table td
   text-align: center;
 }
 
+#fejlec{
+    background-image: url(notredame.jpg);
+    height: 200px;
+}
+
+#cim1{
+    font-size: 48px;
+    text-align: center;
+}
