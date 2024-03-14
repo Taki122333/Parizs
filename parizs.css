@@ -85,3 +85,13 @@ table, table th, table td
     font-size: 48px;
     text-align: center;
 }
+
+h2{
+    font-size: 18px;
+    text-align: center;
+}
+
+h3{
+    font-size: 14px;
+    font-style: italic;
+}
